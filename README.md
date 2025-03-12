@@ -6,4 +6,4 @@ py Script for Pic Layout Into Grid
 # Combine these IMG into Square Picture
 # Add Square Background
 # Add Water Marks and set offset
-# Add Settings
+# Use Settings
